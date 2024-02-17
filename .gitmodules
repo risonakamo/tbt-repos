@@ -1,0 +1,9 @@
+[submodule "time-block-tracker-server-v2"]
+	path = time-block-tracker-server-v2
+	url = https://github.com/risonakamo/tbt-server-v2.git
+[submodule "time-block-tracker"]
+	path = time-block-tracker
+	url = https://github.com/risonakamo/time-block-tracker.git
+[submodule "time-block-tracker-design"]
+	path = time-block-tracker-design
+	url = https://github.com/risonakamo/time-block-tracker-design.git
